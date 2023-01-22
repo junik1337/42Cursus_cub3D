@@ -11,7 +11,7 @@ cd 42Cursus_cub3D
 > For mandatory / bonus :
 ```
 make
-./philo "Maps/" (then choose one of the maps).
+./cub3D "Maps/" (then choose one of the maps).
 ```
 ![Made with c](https://forthebadge.com/images/badges/made-with-c.svg) 
 ![Followers](https://img.shields.io/github/followers/junik1337?style=for-the-badge) 
