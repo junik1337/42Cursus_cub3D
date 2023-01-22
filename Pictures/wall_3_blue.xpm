@@ -1,0 +1,29 @@
+/* XPM */
+static char *_d8f21e58b334f4ac2afb248a7b4a13bBBWyOwPLjkx8imDR[] = {
+/* columns rows colors chars-per-pixel */
+"16 16 7 1 ",
+"  c #262B44",
+". c #343B5B",
+"X c #414865",
+"o c #A6B3C8",
+"O c #B8C3D6",
+"+ c #C0CBDC",
+"@ c #C7D0E0",
+/* pixels */
+"O@.XO@.XO@.XO@.X",
+"oO .oO .oO .oO .",
+".X+@.X+@.X+@.X+@",
+" .o+ .o+ .o+ .o+",
+"O@.XO@.XO@.XO@.X",
+"oO .oO .oO .oO .",
+".XO@.XO@.XO@.XO@",
+" .oO .oO .oO .oO",
+"O@.XO@.XO@.XO@.X",
+"oO .oO .oO .oO .",
+".X+@.X+@.X+@.X+@",
+" .o+ .o+ .o+ .o+",
+"O@.XO@.XO@.XO@.X",
+"oO .oO .oO .oO .",
+".XO@.XO@.XO@.XO@",
+" .oO .oO .oO .oO"
+};
