@@ -8,7 +8,7 @@
 git clone https://github.com/junik1337/42Cursus_cub3D
 cd 42Cursus_cub3D
 ```
-> For mandatory part :
+> For mandatory / bonus :
 ```
 make
 ./philo "Maps/" (then choose one of the maps).
